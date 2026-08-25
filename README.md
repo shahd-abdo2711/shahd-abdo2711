@@ -30,12 +30,12 @@ I'm a **Communications & Computer Engineering student at Benha University** pass
 
 My interests sit at the intersection of **Front-End Development, Machine Learning, and AI-powered applications**.
 
-* 💻 Building responsive and user-friendly web interfaces
-* ⚛️ Working with React, Next.js and modern Front-End technologies
-* 🤖 Exploring Machine Learning, LLMs, RAG and AI Agents
-* 🧠 Interested in turning AI ideas into practical applications
-* 🚀 Enjoy working on real-world projects and learning through building
-* 🏆 Best Technical Award — AI Track at SIC
+*  Building responsive and user-friendly web interfaces
+* Working with React, Next.js and modern Front-End technologies
+* Exploring Machine Learning, LLMs, RAG and AI Agents
+* Interested in turning AI ideas into practical applications
+* Enjoy working on real-world projects and learning through building
+* Best Technical Award — AI Track at SIC
 
 ---
 
