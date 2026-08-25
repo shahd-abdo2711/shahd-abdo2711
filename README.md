@@ -60,14 +60,14 @@ My interests sit at the intersection of **Front-End Development, Machine Learnin
 ### AI & Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,huggingface" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,huggingface,openai,langchain" />
 </p>
 
 **Python · Pandas · NumPy · Scikit-learn · PyTorch · TensorFlow**
 
 **Machine Learning · EDA · Data Preprocessing · Feature Engineering · Model Training · Model Evaluation · Classification · Regression · Clustering**
 
-**Generative AI · LLMs · Transformers · Hugging Face · LangChain · RAG · Embeddings · Vector Databases · Prompt Engineering**
+**Generative AI · LLMs · Transformers · Hugging Face · LangChain · RAG · Embeddings · Prompt Engineering**
 
 </td>
 </tr>
@@ -100,6 +100,7 @@ My interests sit at the intersection of **Front-End Development, Machine Learnin
 
 </tr>
 </table>
+
 
 
  
