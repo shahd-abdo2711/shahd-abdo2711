@@ -154,23 +154,18 @@ I'm particularly interested in building **AI-powered web applications** that com
 
 <div align="center">
 
-<a href="https://github.com/shahd-abdo2711">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shahd-abdo2711&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=ff7a59&icon_color=ff7a59" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=shahd-abdo2711&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=ff7a59&icon_color=ff7a59" height="180"/>
 
-<a href="https://github.com/shahd-abdo2711">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahd-abdo2711&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=ff7a59" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahd-abdo2711&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=ff7a59" height="180"/>
 
 </div>
 
 ---
 
 ##  Contribution Streak
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=shahd-abdo2711&hide_border=true&background=00000000&ring=ff7a59&fire=ff7a59&currStreakLabel=ff7a59" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=shahd-abdo2711&hide_border=true&background=00000000&ring=ff7a59&fire=ff7a59&currStreakLabel=ff7a59" />
 
 </div>
 
