@@ -1,10 +1,14 @@
 name: Generate Snake
 
 on:
+  push:
+    branches:
+      - main
+
   workflow_dispatch:
 
-  schedule:
-    - cron: "0 0 * * *"
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -12,15 +16,16 @@ jobs:
 
     steps:
       - name: Generate Snake
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: shahd-abdo2711
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Deploy Snake
+      - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
+          target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
