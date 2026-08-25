@@ -39,13 +39,13 @@ My interests sit at the intersection of **Front-End Development, Machine Learnin
 
 ---
 
-##  What I Work With
+## What I Work With
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-###  Front-End
+### Front-End
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite" />
@@ -60,13 +60,23 @@ My interests sit at the intersection of **Front-End Development, Machine Learnin
 ### AI & Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,huggingface" />
 </p>
 
-**Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · PyTorch · TensorFlow**
+**Python · Pandas · NumPy · Scikit-learn · PyTorch · TensorFlow**
 
-**Machine Learning · Data Preprocessing · Exploratory Data Analysis (EDA) · Feature Engineering · Feature Selection · Model Training · Model Evaluation · Classification · Regression · Clustering · Data Visualization · Hyperparameter Tuning · Cross-Validation · Handling Imbalanced Data · Data Leakage Detection**
-###  Backend & Databases
+**Machine Learning · EDA · Data Preprocessing · Feature Engineering · Model Training · Model Evaluation · Classification · Regression · Clustering**
+
+**Generative AI · LLMs · Transformers · Hugging Face · LangChain · RAG · Embeddings · Vector Databases · Prompt Engineering**
+
+</td>
+</tr>
+
+<tr>
+
+<td valign="top" width="50%">
+
+### Backend & Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,firebase,sqlite" />
@@ -78,7 +88,7 @@ My interests sit at the intersection of **Front-End Development, Machine Learnin
 
 <td valign="top">
 
-###  Tools & Workflow
+### Tools & Workflow
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
@@ -87,8 +97,10 @@ My interests sit at the intersection of **Front-End Development, Machine Learnin
 **Git · GitHub · VS Code · Postman**
 
 </td>
+
 </tr>
 </table>
+
 
  
 
