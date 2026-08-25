@@ -154,9 +154,9 @@ I'm particularly interested in building **AI-powered web applications** that com
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shahd-abdo2711&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=ff7a59&icon_color=ff7a59" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shahd-abdo2711&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=ff7a59&icon_color=ff7a59" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahd-abdo2711&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=ff7a59" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahd-abdo2711&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=ff7a59" width="48%" />
 
 </div>
 
@@ -181,43 +181,32 @@ I'm particularly interested in building **AI-powered web applications** that com
 
 ---
 
-##  A Little More About Me
+## A Little More About Me
 
-```text
+I'm a **Communications & Computer Engineer** passionate about building
+modern web experiences and exploring intelligent systems.
+
+My interests lie at the intersection of **Front-End Development, AI, and Machine Learning** — from creating clean user interfaces to experimenting with AI Agents, LLMs, and RAG systems.
+
+```javascript
 const shahd = {
     role: "Communications & Computer Engineer",
 
-    interests: [
+    focus: [
         "Front-End Development",
-        "Artificial Intelligence",
-        "Machine Learning",
+        "AI & Machine Learning",
         "AI Agents",
         "LLMs & RAG"
     ],
 
-    frontend: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React",
-        "Next.js",
-        "Tailwind CSS"
-    ],
+    tech: {
+        frontend: ["HTML", "CSS", "JavaScript", "React", "Next.js", "Tailwind"],
+        ai: ["Python", "Machine Learning", "Deep Learning"],
+        tools: ["LangChain", "LangGraph", "Gemini"]
+    },
 
-    ai: [
-        "Python",
-        "Machine Learning",
-        "Deep Learning",
-        "LangChain",
-        "LangGraph",
-        "Gemini"
-    ],
-
-    mindset: "Learn → Build → Break → Fix → Improve "
+    mindset: "Learn → Build → Break → Fix → Improve 🚀"
 };
-```
-
----
 
 <div align="center">
 
