@@ -57,20 +57,15 @@ My interests sit at the intersection of **Front-End Development, Machine Learnin
 
 <td valign="top" width="50%">
 
-###  AI & Machine Learning
+### AI & Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
 </p>
 
-**Python · Pandas · NumPy · Scikit-learn · PyTorch · TensorFlow**
+**Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · PyTorch · TensorFlow**
 
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
+**Machine Learning · Data Preprocessing · Exploratory Data Analysis (EDA) · Feature Engineering · Feature Selection · Model Training · Model Evaluation · Classification · Regression · Clustering · Data Visualization · Hyperparameter Tuning · Cross-Validation · Handling Imbalanced Data · Data Leakage Detection**
 ###  Backend & Databases
 
 <p>
