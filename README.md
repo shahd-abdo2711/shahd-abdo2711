@@ -154,12 +154,11 @@ I'm particularly interested in building **AI-powered web applications** that com
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shahd-abdo2711&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=ff7a59&icon_color=ff7a59" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=shahd-abdo2711&show_icons=true&hide_border=true&theme=transparent&title_color=ff7a59&icon_color=ff7a59" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahd-abdo2711&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=ff7a59" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shahd-abdo2711&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=ff7a59" width="48%" />
 
 </div>
-
 ---
 
 ##  Contribution Streak
@@ -179,45 +178,4 @@ I'm particularly interested in building **AI-powered web applications** that com
 
 </div>
 
----
-
-## A Little More About Me
-
-I'm a **Communications & Computer Engineer** passionate about building
-modern web experiences and exploring intelligent systems.
-
-My interests lie at the intersection of **Front-End Development, AI, and Machine Learning** — from creating clean user interfaces to experimenting with AI Agents, LLMs, and RAG systems.
-
-```javascript
-const shahd = {
-    role: "Communications & Computer Engineer",
-
-    focus: [
-        "Front-End Development",
-        "AI & Machine Learning",
-        "AI Agents",
-        "LLMs & RAG"
-    ],
-
-    tech: {
-        frontend: ["HTML", "CSS", "JavaScript", "React", "Next.js", "Tailwind"],
-        ai: ["Python", "Machine Learning", "Deep Learning"],
-        tools: ["LangChain", "LangGraph", "Gemini"]
-    },
-
-    mindset: "Learn → Build → Break → Fix → Improve 🚀"
-};
-
-<div align="center">
-
-###  Building today, learning every day.
-
-**Thanks for visiting my profile**
-
-<br />
-
-<a href="https://github.com/shahd-abdo2711">
-  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-ff7a59?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+ 
