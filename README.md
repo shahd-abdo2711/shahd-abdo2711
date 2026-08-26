@@ -7,13 +7,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF7A59&center=true&vCenter=true&width=700&lines=Building+beautiful+web+experiences;Exploring+Artificial+Intelligence;Turning+ideas+into+real+projects;Always+learning%2C+always+building." alt="Typing SVG" />
 
 <p>
-  <a href="https://github.com/shahd-abdo2711">
+  <a href="https://github.com/shahd-abdo2711" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/shahd-hussein-473a56378/">
+  <a href="https://www.linkedin.com/in/shahd-hussein-473a56378/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
- <a href="mailto:shahdhusseinabdo@gmail.com">
+ <a href="mailto:shahdhusseinabdo@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
